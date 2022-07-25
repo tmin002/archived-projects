@@ -1,0 +1,11 @@
+C:\Users\team9\Desktop\project\words-count\words-count\bin\Debug\words-count.exe
+C:\Users\team9\Desktop\project\words-count\words-count\bin\Debug\words-count.pdb
+C:\Users\team9\Desktop\project\words-count\words-count\bin\Debug\words-count.xml
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words-count.vbprojAssemblyReference.cache
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words_count.main.resources
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words_count.Resources.resources
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words-count.vbproj.GenerateResource.cache
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words-count.exe
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words-count.xml
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words-count.pdb
+C:\Users\team9\Desktop\project\words-count\words-count\obj\Debug\words_count.ExcWnd.resources

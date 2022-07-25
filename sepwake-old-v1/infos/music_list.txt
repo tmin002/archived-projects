@@ -1,0 +1,7 @@
+#location; playtime after broadcasting; when to start playing(+: starts at ~, -: starts after ~)
+Youngr - Superman.mp3; 20; 5
+Bearcubs - Underwaterfall.mp3; 20; 5
+Bob Moses - Winters Song (Original Mix).mp3; 20; 5
+Hurting.mp3; 20; 5
+MorMor-Heavens Only Wishful.mp3; 20; 5
+Hurting.mp3;20;5

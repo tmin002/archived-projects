@@ -1,0 +1,15 @@
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/bin/Debug/netcoreapp6/sepWake2
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/bin/Debug/netcoreapp6/sepWake2.deps.json
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/bin/Debug/netcoreapp6/sepWake2.runtimeconfig.json
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/bin/Debug/netcoreapp6/sepWake2.dll
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/bin/Debug/netcoreapp6/sepWake2.pdb
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.csproj.AssemblyReference.cache
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.AssemblyInfoInputs.cache
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.AssemblyInfo.cs
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.csproj.CoreCompileInputs.cache
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.dll
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/refint/sepWake2.dll
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.pdb
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/sepWake2.genruntimeconfig.cache
+/Users/tmin002/workspace/repo/archived-projects/sepwake-old-v2/obj/Debug/netcoreapp6/ref/sepWake2.dll
